@@ -54,6 +54,7 @@
   <ItemGroup>
      <Compile Include="Assets\2ndSene Scripts\ScoreScripts.cs" />
      <Compile Include="Assets\Scripts\Scripts.cs" />
+     <Compile Include="Assets\GOALSene\GOALScripts.cs" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
@@ -622,40 +623,40 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>C:/Users/カバー株式会社 管理No251800/Downloads/renda3D/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>C:/Users/カバー株式会社 管理No 251800/Downloads/renda3D/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/カバー株式会社 管理No251800/Downloads/renda3D/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/カバー株式会社 管理No 251800/Downloads/renda3D/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VisualStudio.Editor">
- <HintPath>C:/Users/カバー株式会社 管理No251800/Downloads/renda3D/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+ <HintPath>C:/Users/カバー株式会社 管理No 251800/Downloads/renda3D/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Sysroot.Linux_x86_64">
- <HintPath>C:/Users/カバー株式会社 管理No251800/Downloads/renda3D/Library/ScriptAssemblies/Unity.Sysroot.Linux_x86_64.dll</HintPath>
+ <HintPath>C:/Users/カバー株式会社 管理No 251800/Downloads/renda3D/Library/ScriptAssemblies/Unity.Sysroot.Linux_x86_64.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>C:/Users/カバー株式会社 管理No251800/Downloads/renda3D/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>C:/Users/カバー株式会社 管理No 251800/Downloads/renda3D/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>C:/Users/カバー株式会社 管理No251800/Downloads/renda3D/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>C:/Users/カバー株式会社 管理No 251800/Downloads/renda3D/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/カバー株式会社 管理No251800/Downloads/renda3D/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/カバー株式会社 管理No 251800/Downloads/renda3D/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Toolchain.Linux-x86_64">
- <HintPath>C:/Users/カバー株式会社 管理No251800/Downloads/renda3D/Library/ScriptAssemblies/Unity.Toolchain.Linux-x86_64.dll</HintPath>
+ <HintPath>C:/Users/カバー株式会社 管理No 251800/Downloads/renda3D/Library/ScriptAssemblies/Unity.Toolchain.Linux-x86_64.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>C:/Users/カバー株式会社 管理No251800/Downloads/renda3D/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Rider.Editor">
- <HintPath>C:/Users/カバー株式会社 管理No251800/Downloads/renda3D/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>C:/Users/カバー株式会社 管理No 251800/Downloads/renda3D/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>C:/Users/カバー株式会社 管理No251800/Downloads/renda3D/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>C:/Users/カバー株式会社 管理No 251800/Downloads/renda3D/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.SysrootPackage.Editor">
- <HintPath>C:/Users/カバー株式会社 管理No251800/Downloads/renda3D/Library/ScriptAssemblies/Unity.SysrootPackage.Editor.dll</HintPath>
+ <HintPath>C:/Users/カバー株式会社 管理No 251800/Downloads/renda3D/Library/ScriptAssemblies/Unity.SysrootPackage.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Rider.Editor">
+ <HintPath>C:/Users/カバー株式会社 管理No 251800/Downloads/renda3D/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
