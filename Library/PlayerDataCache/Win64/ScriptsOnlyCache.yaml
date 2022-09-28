@@ -45,19 +45,19 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1486}
     - Class: 114
-      Script: {instanceID: 2218}
+      Script: {instanceID: 2220}
     - Class: 114
-      Script: {instanceID: 2396}
+      Script: {instanceID: 2398}
     - Class: 114
-      Script: {instanceID: 2648}
+      Script: {instanceID: 2652}
     - Class: 114
-      Script: {instanceID: 2830}
+      Script: {instanceID: 2834}
     - Class: 114
-      Script: {instanceID: 3054}
+      Script: {instanceID: 3058}
     - Class: 114
-      Script: {instanceID: 3372}
+      Script: {instanceID: 3376}
     - Class: 114
-      Script: {instanceID: 3508}
+      Script: {instanceID: 3514}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -98,21 +98,21 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1486}
     - Class: 114
-      Script: {instanceID: 2218}
+      Script: {instanceID: 2220}
     - Class: 114
-      Script: {instanceID: 2648}
+      Script: {instanceID: 2644}
     - Class: 114
-      Script: {instanceID: 2830}
+      Script: {instanceID: 2652}
     - Class: 114
-      Script: {instanceID: 3054}
+      Script: {instanceID: 2834}
     - Class: 114
-      Script: {instanceID: 3372}
+      Script: {instanceID: 3058}
     - Class: 114
-      Script: {instanceID: 3508}
+      Script: {instanceID: 3376}
     - Class: 114
-      Script: {instanceID: 15152}
+      Script: {instanceID: 3470}
     - Class: 114
-      Script: {instanceID: 15158}
+      Script: {instanceID: 3514}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -155,19 +155,19 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1486}
     - Class: 114
-      Script: {instanceID: 2218}
+      Script: {instanceID: 2220}
     - Class: 114
-      Script: {instanceID: 2648}
+      Script: {instanceID: 2652}
     - Class: 114
-      Script: {instanceID: 2830}
+      Script: {instanceID: 2834}
     - Class: 114
-      Script: {instanceID: 3054}
+      Script: {instanceID: 3058}
     - Class: 114
-      Script: {instanceID: 3144}
+      Script: {instanceID: 3148}
     - Class: 114
-      Script: {instanceID: 3372}
+      Script: {instanceID: 3376}
     - Class: 114
-      Script: {instanceID: 3508}
+      Script: {instanceID: 3514}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -331,6 +331,12 @@ ScriptsOnlyBuild:
     className: AudioPlayableAsset
   - hash:
       serializedVersion: 2
+      Hash: 81842a2508b18688ff3ba68414db2b99
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TimeCountScripts
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: UnityEngine.TestRunner.dll
     namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
@@ -443,6 +449,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: ControlPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GameQuitScripts
   - hash:
       serializedVersion: 2
       Hash: a1aa98c78061c6f03a8c124cda576e67
@@ -595,6 +607,12 @@ ScriptsOnlyBuild:
     className: BeforeAfterTestCommandState
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ReturnScripts
+  - hash:
+      serializedVersion: 2
       Hash: 0fd6822f6177297bd0eb4d83cc7a9030
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -634,16 +652,10 @@ ScriptsOnlyBuild:
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: ReturnScripts
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: GameQuitScripts
+    className: GameOverScripts
   platform: 19
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
   - Assets/Scenes/2ndSene.unity
   - Assets/Scenes/GOAL.unity
-  playerPath: C:/Users/kouei/Downloads/UnityDebig/rende3D.exe
+  playerPath: C:/Users/kouei/Downloads/UnityDebug/rende3D.exe
