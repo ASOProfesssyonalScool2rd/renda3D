@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Net.Mime;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class TimeCountScripts : MonoBehaviour
 {
@@ -15,7 +16,7 @@ public class TimeCountScripts : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Timetext.GetComponent<Text>();
+        Timetext=GetComponent<Text>();
         countdownsecons = countdownMinutes * 60;
     }
 
@@ -27,7 +28,7 @@ public class TimeCountScripts : MonoBehaviour
         Timetext.text = span.ToString(@"mm\:ss");
         if (countdownsecons <= 0)
         {
-            
+            SceneManager.LoadScene("SampleScene");
         }
     }
     
