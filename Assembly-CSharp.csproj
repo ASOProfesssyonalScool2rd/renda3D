@@ -54,9 +54,10 @@
   <ItemGroup>
      <Compile Include="Assets\GOALSene\GOALScripts.cs" />
      <Compile Include="Assets\2ndSene Scripts\ScoreScripts.cs" />
+     <Compile Include="Assets\GOALSeneScripts\GameQuitScripts.cs" />
      <Compile Include="Assets\Scripts\Scripts.cs" />
      <Compile Include="Assets\GOALSeneScripts\ReturnScripts.cs" />
-     <Compile Include="Assets\GOALSeneScripts\GameQuitScripts.cs" />
+     <Compile Include="Assets\Scripts\TimeCountScripts.cs" />
      <None Include="Assets\Font\利用前にお読みください.txt" />
      <None Include="Assets\Font\SIL_Open_Font_License_1.1.txt" />
  <Reference Include="UnityEngine">

@@ -14,7 +14,7 @@ public class ScoreScripts : MonoBehaviour
 
     public void AddScore()
     {
-        _score += 5;
+        _score += 3;
     }
     // Update is called once per frame
     void Update()
